@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // https://priiyanshu-kumar.github.io/expense-tracker/
 export default defineConfig({
   plugins: [react()],
-  base: '/expense-tracker/',
+  base: '/expense-tracker-react/',
 })
